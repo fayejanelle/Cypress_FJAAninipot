@@ -16,7 +16,7 @@ Automation Exercise
 1.	Run the following command in Terminal: npx cypress open
 2.	In the resulting Cypress window, select KiwiSaverTests.spec.js to run the automated tests
 
-* NOTE: The test for User Story 1, is expected to fail as the text displayed in the information message for Current Age:
+* NOTE: The test for User Story 1, is expected to fail as the text displayed in the information message for Current Age is different from the Acceptance Criteria.
 
 ## User Stories
 
