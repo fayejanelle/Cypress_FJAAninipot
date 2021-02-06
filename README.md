@@ -9,7 +9,7 @@ Automation Exercise
 2.	Ensure that Node JS in your machine or you can download it from (https://nodejs.org/en/download/current/) 
 3.	Ensure that Visual Studio Code is installed in your machine or you can download it from (https://code.visualstudio.com/download) 
 4.	Install Git (https://git-scm.com/downloads) 
-5.	Ensure that Git is enabled from the Visual Studio Code
+5.	Ensure that Git is enabled and Cypress is installed in the Visual Studio Code
 6.	Pull the codes from the solution repository (https://github.com/fayejanelle/Cypress_FJAAninipot)
 
 ## To run the automated tests:
