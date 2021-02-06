@@ -18,13 +18,6 @@ describe ('Go to KiwiSaver Calculator', function(){
     });
 });
 
-describe ('TEST INPUT 1', function(){
-    it('gets the post using single its', () => {
-        home.inputCurrentAge().type('17');
-    
-    });
-});
-
 describe ('User Story 1 - AC 1: Checks information icon message for Current Age',function(){
     it('Current Age Message must be = "This calculator has an age limit of 64 years old as you need to be under the age of 65 to join KiwiSaver.” ', () => {
         home.accessKiwiSaverCalcPage().reload();
