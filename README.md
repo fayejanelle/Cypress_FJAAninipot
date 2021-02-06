@@ -2,20 +2,21 @@
 Automation Exercise
 
 * These are automated UI tests, for the User Stories below.
-* This was created using Cypress, Java Script, and Vistual Studio for Mac, by Faye Aninipot.
+* This was created using Cypress, Java Script, and Vistual Studio Code for Mac, by Faye Aninipot.
 
-NOTE: Chrome Browser must be available for these tests.
+## Setup Instructions:
+1.	Ensure Chrome browser is available. If not, it can be installed from the following link (https://www.google.com/chrome/?brand=WHAR&gclid=EAIaIQobChMIn7TGw9fU7gIV0G4qCh2iHgjqEAAYASAAEgKa6fD_BwE&gclsrc=aw.ds)  
+2.	Ensure that Node JS in your machine or you can download it from (https://nodejs.org/en/download/current/) 
+3.	Ensure that Visual Studio Code is installed in your machine or you can download it from (https://code.visualstudio.com/download) 
+4.	Install Git (https://git-scm.com/downloads) 
+5.	Ensure that Git is enabled from the Visual Studio Code
+6.	Pull the codes from the solution repository (https://github.com/fayejanelle/Cypress_FJAAninipot)
 
-## Instructions to run the tests:
-1. Install Node JS (https://nodejs.org/en/download/current/)
-2. Install Visual Studio Code
-3. Create a working folder in your local machine
-4. Download the files from GitHub (https://github.com/fayejanelle/Cypress_FJAAninipot) into your working folder
-5. Open the working folder in Visual Studio Code
-6. Click on Terminal > New Terminal
-7. Run the following command: npx cypress open
-8. In the resulting window, select KiwiSaverTests.spec.js
+## To run the automated tests:
+1.	Run the following command in Terminal: npx cypress open
+2.	In the resulting Cypress window, select KiwiSaverTests.spec.js to run the automated tests
 
+* NOTE: The test for User Story 1, is expected to fail as the text displayed in the information message for Current Age:
 
 ## User Stories
 
